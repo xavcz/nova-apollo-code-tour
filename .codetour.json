@@ -1,0 +1,7 @@
+{
+  "targetRepository": "TelescopeJS/Telescope",
+  "description": "Learn how to Telescope Nova is powered thanks to Meteor & Apollo.",
+  "steps": [
+    "containers.md"
+  ]
+}
